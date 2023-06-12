@@ -1,0 +1,57 @@
+body {
+    background: url("pngtree-people-waiting-at-train-station-flat-color-vector-illustration-picture-image_1779601.jpg") no-repeat center/cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+}
+
+div {
+    border: 2px solid darkblue;
+    padding: 20px;
+    max-width: 80%;
+    margin: auto;
+    background: rgb(228, 230, 238);
+    place-content: center;
+}   
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 4px 4px darkblue;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: white;
+    text-shadow: 4px 4px darkblue;
+}
+
+button {
+    border: 2px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+#increment-btn {
+    background: royalblue;
+}
+
+#save-btn {
+    background: rgb(74, 230, 74);
+}
+
+p{
+    text-shadow: 2px 2px white;
+    font-weight: 1000;    
+}
